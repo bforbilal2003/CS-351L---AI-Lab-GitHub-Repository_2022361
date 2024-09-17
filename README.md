@@ -49,8 +49,8 @@ For any queries or assistance, feel free to reach out to the course instructor:
 ## 🙋‍♂️ **Maintainer**
 
 This repository is maintained by:  
-**Hassaan Ali Bukhari**  
-**GitHub:** [b3ta-blocker](https://github.com/b3ta-blocker)
+**Muhammad Bilal Aslam**  
+**GitHub:** [bforbilal2003](https://github.com/bforbilal2003)
 
 ---
 
